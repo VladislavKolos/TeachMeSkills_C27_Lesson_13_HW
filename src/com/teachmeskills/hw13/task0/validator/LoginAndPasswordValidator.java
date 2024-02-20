@@ -6,7 +6,7 @@ import com.teachmeskills.hw13.task0.custom_exception.WrongPasswordException;
 
 /**
  * Class with static methods to checking whether the conditions for entering login and password are met
- * the method returns true if the values are valid or false otherwise.
+ * the methods return true if the values are valid or false otherwise.
  */
 public class LoginAndPasswordValidator {
     private LoginAndPasswordValidator() {
